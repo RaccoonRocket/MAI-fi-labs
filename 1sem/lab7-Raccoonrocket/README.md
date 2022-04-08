@@ -1,3 +1,0 @@
-# lab-template
-
-Update readme
