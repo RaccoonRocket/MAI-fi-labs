@@ -1,0 +1,65 @@
+1. Print table	 2. Shaker sort	 3. Random	 4. Exit
+1
+====================
+1  Du..
+2  Du hast..
+3  Du hast mich..
+4  Du hast mich..
+5  Du hast mich gefragt..
+6  Du hast mich gefragt..
+7  Du hast mich gefragt und ich hab nichts gesagt.
+8  Willst du bis der Tod euch scheidet
+9  Treu ihr sein fur alle Tage?
+10  Nein!
+11  Willst du bis zum Tod der Scheide
+12  Sie lieben auch in schlechten Tagen?
+13  Nein!
+14  Willst du bis der Tod euch scheidet
+15  Treu ihr sein?
+16  Nein!
+====================
+1. Print table	 2. Shaker sort	 3. Random	 4. Exit
+3
+1. Print table	 2. Shaker sort	 3. Random	 4. Exit
+2
+Before:
+====================
+8  Willst du bis der Tod euch scheidet
+5  Du hast mich gefragt..
+1  Du..
+15  Treu ihr sein?
+7  Du hast mich gefragt und ich hab nichts gesagt.
+16  Nein!
+6  Du hast mich gefragt..
+13  Nein!
+3  Du hast mich..
+14  Willst du bis der Tod euch scheidet
+2  Du hast..
+9  Treu ihr sein fur alle Tage?
+10  Nein!
+12  Sie lieben auch in schlechten Tagen?
+4  Du hast mich..
+11  Willst du bis zum Tod der Scheide
+====================
+After:
+====================
+1  Du..
+2  Du hast..
+3  Du hast mich..
+4  Du hast mich..
+5  Du hast mich gefragt..
+6  Du hast mich gefragt..
+7  Du hast mich gefragt und ich hab nichts gesagt.
+8  Willst du bis der Tod euch scheidet
+9  Treu ihr sein fur alle Tage?
+10  Nein!
+11  Willst du bis zum Tod der Scheide
+12  Sie lieben auch in schlechten Tagen?
+13  Nein!
+14  Willst du bis der Tod euch scheidet
+15  Treu ihr sein?
+16  Nein!
+====================
+1. Print table	 2. Shaker sort	 3. Random	 4. Exit
+4
+
