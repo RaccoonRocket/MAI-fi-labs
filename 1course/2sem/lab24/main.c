@@ -17,9 +17,5 @@ int main() {
     tree *root = NULL;
     root = make_it(root, result);
     tree_print(root, 1);
-    printf("\n\n");
-    divided(root);
-    tree_print(root, 1);
-    printf("\nq");
     return 0;
 }
